@@ -1,0 +1,13 @@
+{
+  "name": "py-myTools",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "main": "index.js",
+  "keywords": [
+    "dateFormat",
+    "HtmlEscape"
+  ],
+  "description": "提供格式化时间,HtmlEscape的功能",
+  "license": "ISC"
+}
